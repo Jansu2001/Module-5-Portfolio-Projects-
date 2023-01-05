@@ -1,0 +1,19 @@
+
+*{
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    text-decoration: none;
+}
+ul li{
+    display: inline-block;
+    margin: 0 20px;
+    
+    
+}
+.primary{
+    color: darkred;
+}
